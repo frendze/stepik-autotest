@@ -1,0 +1,13 @@
+1601834762651	geckodriver	INFO	Listening on 127.0.0.1:53967
+1601834762805	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/62vqhvkx5sl25_h76_p_fm1m0000gn/T/rust_mozprofile5fBpGZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601834776514	Marionette	INFO	Listening on port 53980
+1601834857401	Marionette	INFO	Stopped listening on port 53980
+1601834860997	geckodriver	INFO	Listening on 127.0.0.1:54432
+1601834861032	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kt/62vqhvkx5sl25_h76_p_fm1m0000gn/T/rust_mozprofile5k2Eow"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601834867928	Marionette	INFO	Listening on port 54437
+1601834868003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1600964104, line 2923: unreachable code after return statement
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1600964104, line 2923: unreachable code after return statement
+1601834957596	Marionette	INFO	Stopped listening on port 54437
